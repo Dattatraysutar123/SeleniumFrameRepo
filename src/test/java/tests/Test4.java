@@ -16,6 +16,7 @@ public class Test4<WebDriver> extends Base{
 @Test
 	public void testData() throws IOException, InterruptedException {
 		System.out.println("Datta Has updated test 4 ");
+		System.out.println9("karan updated code");
 	  driver = initializeDriver();
 	  
 	  ((Object) driver).get("http://tutorialsninja.com/demo/");
